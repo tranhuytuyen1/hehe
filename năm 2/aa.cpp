@@ -7,7 +7,7 @@ int main(){
 	cout<<"nhap n:";cin>>n;
 	for(int i=0;i<n;i++){
 		cout<<"Nhap a thu:"<<i+1<<endl;
-		cin>>a;
+		cin>>a;adas
 }
 	void selectionsort(int a[],int n){
 		int min;
